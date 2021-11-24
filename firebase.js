@@ -6,13 +6,7 @@ import "firebase/database";
 
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyA6txu9kVgp7upSs66uQHb0lYi-0SlfrCc",
-  authDomain: "hackutd-viii-2021.firebaseapp.com",
-  databaseURL: "https://hackutd-viii-2021-default-rtdb.firebaseio.com",
-  projectId: "hackutd-viii-2021",
-  storageBucket: "hackutd-viii-2021.appspot.com",
-  messagingSenderId: "852147345583",
-  appId: "1:852147345583:web:20050860cce6f63d019c5a",
+  // omitted from repo
 };
 
 // if a Firebase instance doesn't exist, create one
